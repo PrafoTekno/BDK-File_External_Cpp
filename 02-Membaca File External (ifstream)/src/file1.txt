@@ -1,0 +1,14 @@
+Ini adalah data Genin saat ini:
+
+1. Naruto Uzumaki
+2. Sakura Haruno
+3. Sasuke Uciha
+4. Ino Yamanaka
+5. Coji Akemichi
+6. Shikamaru Nara
+7. Hinata Hyuga
+8. Shino Aburame
+9. Kiba Inuzuka
+10. Tenten
+11. Lee
+12. Neji Hyuga
